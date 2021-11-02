@@ -1,3 +1,2 @@
 # stories_instagram
-#Um slide semelhante ao do instagram.<br/>
-![image](https://user-images.githubusercontent.com/65626953/139952120-098d56da-9dbe-45c6-b2aa-dc34ddc597d4.png)
+#Um slide semelhante ao do instagram.<br/><br/><br/>![image](https://user-images.githubusercontent.com/65626953/139952450-18b48834-300e-4c06-b31b-fe08179f4743.png)
